@@ -1,5 +1,5 @@
 # Multi-Class_Obesity_Risk_Prediction
-View HTML file: [File](../obesity-risk-prediction.html)
+View HTML file: [File](../files/obesity-risk-prediction.html)
 
 This project utilizes Machine Learning to predict an individual's obesity risk level based on their physical characteristics, dietary habits, and lifestyle choices.
 
